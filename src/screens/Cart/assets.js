@@ -1,0 +1,1 @@
+export const success = require('../../assets/images/success-mark.png');

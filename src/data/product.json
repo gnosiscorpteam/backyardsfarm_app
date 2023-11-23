@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Broccoil",
+      "category": "Microgreens",
+      "img": "Broccoil",
+      "cookingImg": "BroccoilCooking",
+      "price": "2.5",
+      "discount": "10% off",
+      "delivery_charges": "$20",
+      "time_taken": "35 mins",
+      "total_sales": "280",
+      "rating": "4.5",
+      "description": "Indulge in the exceptional nutrition of backyard-grown broccoli from our farm-to-table produce. Bursting with vitamins, minerals, and antioxidants, our fresh and sustainably grown broccoli is a delicious way to boost your health and vitality."
+    },
+    {
+      "id": 2,
+      "name": "Sunflower",
+      "category": "Microgreens",
+      "img": "Sunflower",
+      "cookingImg": "SunflowerCooking",
+      "price": "2.5",
+      "discount": "10% off",
+      "delivery_charges": "$20",
+      "time_taken": "45 mins",
+      "total_sales": "200",
+      "rating": "4",
+      "description": "Sunflower microgreens, grown in our backyard farm, are a highly nutritious and flavorful addition to any meal. Packed with vitamins, minerals, and antioxidants, these vibrant greens are a delightful way to enhance your dishes while reaping the benefits of their health-promoting qualities."
+    },
+    {
+      "id": 3,
+      "name": "Radish",
+      "category": "Microgreens",
+      "img": "Radish",
+      "cookingImg": "RadishCooking",
+      "price": "2.5",
+      "discount": "10% off",
+      "delivery_charges": "$20",
+      "time_taken": "40 mins",
+      "total_sales": "220",
+      "rating": "5",
+      "description": "Freshly grown in our backyard farm, radish microgreens offer a burst of peppery flavors and enticing crunch. Not only do these miniature greens add a vibrant touch to your meals, but they also provide a wealth of essential nutrients that can enhance your overall well-being."
+    },
+    {
+      "id": 4,
+      "name": "Pea",
+      "category": "Microgreens",
+      "img": "Pea",
+      "cookingImg": "PeaCooking",
+      "price": "2.5",
+      "discount": "10% off",
+      "delivery_charges": "$20",
+      "time_taken": "30 mins",
+      "total_sales": "340",
+      "rating": "4.5",
+      "description": "From our backyard farm, we present nutritious pea microgreens that are bursting with fresh, sweet flavors. These vibrant green gems are a rich source of vitamins, minerals, and plant-based protein, making them a perfect addition to salads, sandwiches, and smoothies for a nourishing boost."
+    },
+    {
+      "id": 5,
+      "name": "Wheatgrass",
+      "category": "Microgreens",
+      "img": "Wheatgrass",
+      "cookingImg": "WheatgrassCooking",
+      "price": "2.5",
+      "discount": "10% off",
+      "delivery_charges": "$20",
+      "time_taken": "10 mins",
+      "total_sales": "420",
+      "rating": "4.8",
+      "description": "Wheatgrass microgreens are small, young plants harvested just after sprouting, packed with essential nutrients like vitamins, minerals, and antioxidants. Grown in a backyard farm, these tender and vibrant greens offer a fresh and nutritious addition to your diet, perfect for juicing, smoothies, or as a garnish for various dishes."
+    },
+    {
+      "id": 6,
+      "name": "Lavender",
+      "category": "Others",
+      "img": "Lavender",
+      "cookingImg": "LavenderCooking",
+      "price": "2.5",
+      "discount": "10% off",
+      "delivery_charges": "$20",
+      "time_taken": "30 mins",
+      "total_sales": "340",
+      "rating": "4.5",
+      "description": "Lavender microgreens, grown in our backyard farm, offer a burst of fresh, aromatic flavor and an abundance of essential nutrients. With their delightful fragrance and impressive nutritional profile, our homegrown lavender microgreens are the perfect addition to elevate your culinary creations."
+    }
+  ]
+  
